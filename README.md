@@ -6,7 +6,7 @@ The Group Members are:
 - Mohammad Yousuf Hussain  - .... - .... - .... - ....
 
 
-The project is currently structured into three categories
+The project is currently structured into three parts
 
 - Pre-Trade Analysis
 
