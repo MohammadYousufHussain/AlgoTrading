@@ -28,3 +28,9 @@ Current task is to develop:
 <p align="center">
   <img src="https://github.com/MohammadYousufHussain/ELEC7080/blob/master/Books/Infrastructure%20Diagram.png" width="500"/>
 </p>
+
+**Types of Trading Strategies**
+
+<p align="center">
+  <img src="https://github.com/MohammadYousufHussain/ELEC7080/blob/master/Books/Types%20of%20Strategies.png" width="500"/>
+</p>
