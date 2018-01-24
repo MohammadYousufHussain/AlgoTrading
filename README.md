@@ -24,6 +24,3 @@ Current task is to develop:
 
 
 **High Level Infrastructure Diagram**
-
-
-
