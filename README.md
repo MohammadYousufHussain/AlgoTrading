@@ -16,5 +16,10 @@ The project is currently structured into three parts
 
 Current task is to develop:
 - Market Analyzer
+  - Items to discuss:
+    - Dimensionality of the market:
+      - Trend
+      - Volatility
+      - Do we want to consider others
 
 
