@@ -20,6 +20,6 @@ Current task is to develop:
     - Dimensionality of the market:
       - Trend
       - Volatility
-      - Do we want to consider others
+      - Do we want to consider others?
 
 
