@@ -25,7 +25,5 @@ Current task is to develop:
 
 **High Level Infrastructure Diagram**
 
-<p align="left">
-  <img src="https://github.com/MohammadYousufHussain/ELEC7080/blob/master/Books/Infrastructure%20Diagram.png" width="500"/>
-</p>
+
 
