@@ -23,7 +23,7 @@ Current task is to develop:
       - Do we want to consider other dimensions?
 
 
-**High Level Infrastructure Diagram**
+## High Level Infrastructure Diagram
 
 <p align="center">
   <img src="https://github.com/MohammadYousufHussain/ELEC7080/blob/master/Books/Infrastructure%20Diagram.png" width="500"/>
