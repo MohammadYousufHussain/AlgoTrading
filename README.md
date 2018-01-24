@@ -22,4 +22,5 @@ Current task is to develop:
       - Volatility
       - Do we want to consider other dimensions?
 
+![alt text](https://github.com/MohammadYousufHussain/ELEC7080/blob/master/Books/Infrastructure%20Diagram.png)
 
