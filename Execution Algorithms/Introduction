@@ -1,0 +1,25 @@
+Financial researchers tried to find optimal distribution between aggressive and passive orders during the first ten years
+since the change of millennium, as can be seen by timeline below:
+
+1999-2003 - Starting from static trading strategies independent of price changes
+2003-2007 - Continuous time trading with incorporation of impact functions
+2007-2011 - Dynamic trading strategies based on fixed time price update
+2011-2013 – Dynamic trading strategies based on continuous price update
+2013-2015 – Application of dynamic programming to optimize strategy incorporating LaGrange multiplier and Poisson Process to
+find solution 
+
+Recently there has been a greater amount of research on optimizing execution within passive trading. Passive trading is also
+of importance for market making strategies, as revenue of market makers is dependent upon capturing spread, while maintaining
+minimum one sided position. This greater limelight on passive trading has led researchers to focus on limit order book, as can
+be seen by the timeline below: 
+
+1981 - First academic paper that explored modelling of non-execution risk. However, it was not until 2008 that 
+another academic paper was written on non-execution risk.
+2008 - Statistical properties of liquidity of limit order book analysed to formulate objective function of maximizing
+investor’s utility.
+2012 - Portfolio liquidation framework based on objective to maximize expected revenue of sales.
+2013 - Solution designed for HFT firms maximizing terminal wealth while penalising inventory deviations from zero and 
+terminal inventory holdings.
+2015 - Price dependent liquidation strategy maximizing investor’s utility
+2015 - Application of reinforcement learning to optimize market making in limit order book
+2016 - Optimizing liquidation of child limit orders using short term momentum indicators 
