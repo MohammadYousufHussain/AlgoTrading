@@ -1,6 +1,6 @@
-# ELEC7080
+# Algo Trading
 
-This repository is for the group work of ELEC7080 course.
+This repository is for the group work of Algo Trading
 
 The Group Members are:
 - Mohammad Yousuf Hussain  - Xiao GUO - GUO Yu - .... - ....
