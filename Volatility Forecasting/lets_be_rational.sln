@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lets_be_rational", "lets_be_rational.vcproj", "{BD763CE9-6860-49EA-8A5B-A0E70C929AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD763CE9-6860-49EA-8A5B-A0E70C929AEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD763CE9-6860-49EA-8A5B-A0E70C929AEB}.Debug|Win32.Build.0 = Debug|Win32
+		{BD763CE9-6860-49EA-8A5B-A0E70C929AEB}.Release|Win32.ActiveCfg = Release|Win32
+		{BD763CE9-6860-49EA-8A5B-A0E70C929AEB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
